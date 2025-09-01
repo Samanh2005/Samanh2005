@@ -1,6 +1,7 @@
-<div>
-<img scr='./Cover-art-github.png' alt='Cover art' width='250px'/>
+<div align="center">
+  <img src="./Cover-art-github.png" alt="Cover art" width="1920px"/>
 </div>
+
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
