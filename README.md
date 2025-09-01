@@ -33,8 +33,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samanh2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanh2005&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samanh2005&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanh2005&layout=compact&theme=tokyonight&cache_seconds=1800&exclude_repo=repo1,repo2" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
   <a href="https://github.com/Samanh2005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:saman.hosseinian.programmer@gmail.com">
