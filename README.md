@@ -1,16 +1,27 @@
-## Hi there 👋
+<img scr='./Cover-art-github.png' alt='Cover art'/>
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**Samanh2005/Samanh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm <b>Saman</b><br>
+  💻 Backend Developer passionate about building scalable and reliable applications.<br>
+  🐍 Mainly working with <b>Python</b> & <b>Django</b>.<br>
+  ⚡ Enthusiastic about clean code, open-source, and continuous learning.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🛠️ Skills & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,git,docker,html,css,bootstrap,ps,pr" />
+</p>
+
+---
+
+<h3 align="center">📫 How to reach me</h3>
+
+<p align="center">
+  <a href="https://github.com/Samanh2005">GitHub</a>
+</p>
+
+<p align="center">✨ Always curious, always coding. ✨</p>
