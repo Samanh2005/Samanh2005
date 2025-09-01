@@ -33,8 +33,23 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samanh2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanh2005&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <!-- GitHub Stats - Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Samanh2005&show_icons=true&theme=default" 
+       alt="GitHub Stats" height="160" 
+       #gh-light-mode-only />
+  <!-- GitHub Stats - Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Samanh2005&show_icons=true&theme=tokyonight" 
+       alt="GitHub Stats" height="160" 
+       #gh-dark-mode-only />
+
+  <!-- Top Languages - Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanh2005&layout=compact&theme=default" 
+       alt="Top Languages" height="160" 
+       #gh-light-mode-only />
+  <!-- Top Languages - Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanh2005&layout=compact&theme=tokyonight" 
+       alt="Top Languages" height="160" 
+       #gh-dark-mode-only />
 </p>
 
 ---
