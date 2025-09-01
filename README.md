@@ -1,4 +1,6 @@
-<img scr='./Cover-art-github.png' alt='Cover art'/>
+<div>
+<img scr='./Cover-art-github.png' alt='Cover art' width='250px'/>
+</div>
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
